@@ -5,7 +5,7 @@ import org.springframework.jdbc.core.namedparam.MapSqlParameterSource;
 import org.springframework.jdbc.core.namedparam.NamedParameterJdbcTemplate;
 
 @RequiredArgsConstructor
-public class RecordsRepository {
+public class ExpenseRepository {
     private final NamedParameterJdbcTemplate jdbcTemplate;
 
     //crud operations
