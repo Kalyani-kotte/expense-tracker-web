@@ -1,4 +1,4 @@
-package expenseTrackerService;
+package com.expenseTracker.expenseTrackerService;
 
 import lombok.Getter;
 import lombok.RequiredArgsConstructor;

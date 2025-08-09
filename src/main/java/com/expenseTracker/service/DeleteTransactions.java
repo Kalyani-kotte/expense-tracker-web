@@ -1,7 +1,7 @@
 package com.expenseTracker.service;
 
-import expenseTrackerService.Transaction;
 
+import com.expenseTracker.expenseTrackerService.Transaction;
 public class DeleteTransactions {
     private final ViewTransaction viewTransaction;
 

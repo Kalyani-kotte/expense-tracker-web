@@ -1,5 +1,6 @@
 package com.expenseTracker.service;
-import expenseTrackerService.Transaction;
+import com.expenseTracker.expenseTrackerService.Transaction;
+
 import lombok.RequiredArgsConstructor;
 
 import java.util.ArrayList;

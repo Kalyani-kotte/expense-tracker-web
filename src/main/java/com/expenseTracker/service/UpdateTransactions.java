@@ -1,6 +1,7 @@
 package com.expenseTracker.service;
+import com.expenseTracker.expenseTrackerService.Transaction;
 
-import expenseTrackerService.Transaction;
+//import expenseTrackerService.Transaction;
 import lombok.RequiredArgsConstructor;
 
 import java.util.List;

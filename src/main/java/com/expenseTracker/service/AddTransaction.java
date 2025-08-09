@@ -1,8 +1,9 @@
 package com.expenseTracker.service;
 
-import expenseTrackerService.Transaction;
+
 import lombok.Getter;
 
+import com.expenseTracker.expenseTrackerService.Transaction;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
